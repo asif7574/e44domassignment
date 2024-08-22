@@ -1,0 +1,14 @@
+.disp{
+height: 100px;
+width: 500px;
+background-color: aqua;
+color: blue;
+display: grid;
+}
+
+.cc{
+height: 100px;
+width: 100px ;
+background-color: rgb(62, 37, 37,0.4);
+border-radius: 100%;
+}
